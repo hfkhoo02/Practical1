@@ -18,6 +18,7 @@
             <br />
             <br />
             <asp:Button ID="btnSubmit" runat="server" Text="Submit" />
+            <asp:Button ID="btnCancel" runat="server" Text="Cancel" />
         </div>
     </form>
 </body>
